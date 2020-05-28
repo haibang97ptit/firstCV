@@ -7,7 +7,7 @@ body
 #header
 {
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(img/background.png);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(background.png);
     background-position: center;
     background-size :cover;
     background-attachment: fixed; 
@@ -213,7 +213,7 @@ body
 .contact
 {
     padding-top: 50px;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(img/background2.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(background2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
